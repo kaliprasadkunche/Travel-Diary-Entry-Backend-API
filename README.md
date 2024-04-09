@@ -4,8 +4,21 @@
 
 This document provides comprehensive documentation for the Travel Diary Platform backend API. The API allows users to create, read, update, and delete travel diary entries. It is built using Node.js, Express.js, and SQLite, with a focus on Object-Oriented Programming (OOP) concepts.
 
-## Setup Instructions
+Post Man Testing:
 
+![Screenshot 2024-04-09 180149](https://github.com/kaliprasadkunche/Travel-Diary-Entry-Backend-API/assets/113325469/def1f4fa-bded-490e-9f74-1bccee9389c2)
+
+![Screenshot 2024-04-09 180158](https://github.com/kaliprasadkunche/Travel-Diary-Entry-Backend-API/assets/113325469/c7b8e0e2-90e0-49ec-987c-84375baa804c)
+
+![Screenshot 2024-04-09 183222](https://github.com/kaliprasadkunche/Travel-Diary-Entry-Backend-API/assets/113325469/e9d20bff-7c2e-4ef5-b710-591d101256fe)
+
+![Screenshot 2024-04-09 183234](https://github.com/kaliprasadkunche/Travel-Diary-Entry-Backend-API/assets/113325469/896820ba-33f7-495a-81b6-313bdd8cde43)
+
+![Screenshot 2024-04-09 183244](https://github.com/kaliprasadkunche/Travel-Diary-Entry-Backend-API/assets/113325469/89ced95b-0ded-47f0-9ee7-92cef5e0d7ed)
+
+![Screenshot 2024-04-09 183255](https://github.com/kaliprasadkunche/Travel-Diary-Entry-Backend-API/assets/113325469/e1ace0a7-79bb-4f26-8292-e8c90f40cd08)
+
+## Setup Instructions
 1. Clone the repository:
    ```bash
    git clone <repository-url>
