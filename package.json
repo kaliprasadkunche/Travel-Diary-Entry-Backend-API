@@ -1,7 +1,7 @@
 {
   "name": "travel-diary-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "This document provides comprehensive documentation for the Travel Diary Platform backend API. The API allows users to create, read, update, and delete travel diary entries. It is built using Node.js, Express.js, and SQLite, with a focus on Object-Oriented Programming (OOP) concepts.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
