@@ -143,10 +143,10 @@ app.delete('/diary/:id', authenticateToken, (req, res) => {
     });
 });
 
-// Documentation
-app.get('/documentation', (req, res) => {
-    res.send('Documentation will be provided soon');
-});
+// // Documentation
+// app.get('/documentation', (req, res) => {
+//     res.send('Documentation will be provided soon');
+// });
 
 // Start the server
 app.listen(port, () => {
